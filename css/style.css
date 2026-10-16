@@ -1,0 +1,30 @@
+body {
+background-color: #f5f5f5;
+font-size: 20px;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+.intro {
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
