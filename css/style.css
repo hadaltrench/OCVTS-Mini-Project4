@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-    color: blue;
+    color: goldenrod;
 }
 
 a:visited {
@@ -80,3 +80,9 @@ long
 
 break */
 
+.review {
+    float: left;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+}
